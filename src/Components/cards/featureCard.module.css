@@ -1,0 +1,13 @@
+.featureCard {
+    position: relative;
+}
+
+.categoryField {
+    position: absolute;
+    top: 10%;
+    z-index: 3;
+    right: 7%;
+    background-color: #0000009c;
+    padding: 5px 12px;
+    border-radius: 17px;
+}

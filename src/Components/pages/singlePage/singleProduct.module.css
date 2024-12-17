@@ -1,0 +1,31 @@
+.singleProductContainer {
+    padding: 50px 0;
+    color: black;
+    text-align: center;
+}
+
+.imageOptionBox {
+    width: 35%;
+}
+
+.imageItem {
+    width: 100%;
+    height: 115px;
+    margin: 20px 0;
+}
+
+.imageItem img {
+    width: 100%;
+    height: 100%;
+}
+
+.displayImage {
+    width: 60%;
+    height: 370px;
+    margin-left: 45px;
+}
+
+.displayImage img {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,19 @@
+.featureProductContainer {
+    padding-top: 3.5rem;
+    padding-bottom: 7rem;
+    width: 100%;
+    border-bottom-right-radius: 25%;
+    background: linear-gradient(to bottom right, #fffe004d, transparent, #ffa700a6);
+}
+
+.featureItemBox {
+    background-color: #f3b38654;
+    padding: 50px 30px;
+    box-shadow: 0px 12px 5px 2px #8b451354;
+    border-radius: 20px;
+    gap: 1rem;
+}
+
+.featureItemBox:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.cartContainer {
+    padding: 15px 0;
+    color: black;
+}
+
+.tableContainer {
+    height: 50vh;
+    overflow-y: scroll;
+}
